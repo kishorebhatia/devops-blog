@@ -1,0 +1,6 @@
+Backup at each env server (currently prevalent and used by a lot of teams) 
+Vs. 
+Centralized - Repository based artifacts that define everything for one application/env/database/properties
+
+write more on - Backup at each env server Vs. repository based artifacts
+E.g. - CQ5 file-system based backups on each env (/etc/content etc.)
