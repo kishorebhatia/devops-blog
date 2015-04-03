@@ -1,0 +1,17 @@
+weave and cloud66
+
+Weave - the Docker network
+Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
+http://weave.works/
+https://github.com/zettio/weave#readme
+
+10-15x cost savings moving from VM infra to cloud specially with containers
+quick/speed, deploy more s/w automatically, capacity
+
+Cloud66 - 
+http://www.cloud66.com
+
+Ops for Dev - basically you don't need dedicated ops manual teams for supporting development effort anymore - 
+this can be done all in the cloud (Ops as a service) 
+From building your servers to deploying your applications and managing your databases. 
+All in one place.
